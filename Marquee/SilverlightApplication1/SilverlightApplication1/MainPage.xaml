@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="SilverlightApplication1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+    <Grid x:Name="LayoutRoot" Background="White">
+      <Canvas Name="canvas1">
+        <Canvas.Triggers> 
+            <EventTrigger RoutedEvent="Canvas.Loaded" >
+                <BeginStoryboard>
+                    <Storyboard x:Name="animation" Storyboard.TargetProperty="(Canvas.Left)" RepeatBehavior="Forever" >
+                            <DoubleAnimation Storyboard.TargetName="ScrollText" From="0" To="420" Duration="0:0:7"  />
+                            <DoubleAnimation Storyboard.TargetName="ScrollText1" From="420" To="0" Duration="0:0:7"  />
+                            <DoubleAnimation Storyboard.TargetName="ScrollText2" From="750" To="1200" Duration="0:0:7"  />
+                            <DoubleAnimation Storyboard.TargetName="ScrollText11" From="750" To="1200" Duration="0:0:7"  />
+                        </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Canvas.Triggers>
+            <TextBlock x:Name="ScrollText" FontFamily="Verdana" FontSize="36" Foreground="Blue"  Text="Welcome to silverlight word." />
+            <TextBlock x:Name="ScrollText11" FontFamily="Verdana" FontSize="36" Foreground="Blue" Text="hello Jim, I made this" Padding="100" Margin="10"/>
+            <Image x:Name="ScrollText2" Loaded="ScrollText2_Loaded" Source="mario3.png" />
+            <TextBlock x:Name="ScrollText1"  Padding="250"
+                        FontFamily="Arial" Width="400" Text="Sample text formatting runs">
+                        <LineBreak/>
+                        <Run Foreground="Maroon" FontFamily="Courier New" FontSize="24">Courier New 24</Run>
+                        <LineBreak/>
+                        <Run Foreground="Teal" FontFamily="Times New Roman" FontSize="18" FontStyle="Italic">Times New Roman Italic 18</Run>
+                        <LineBreak/>
+                        <Run Foreground="SteelBlue" FontFamily="Verdana" FontSize="34" FontWeight="Bold">Verdana Bold 34</Run>
+            </TextBlock>
+        </Canvas>
+    </Grid>
+</UserControl>
+
+

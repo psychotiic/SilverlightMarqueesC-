@@ -1,0 +1,11 @@
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\Bin\Debug\SilverlightMarquee.dll
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\Bin\Debug\SilverlightMarquee.pdb
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\obj\Debug\App.g.cs
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\obj\Debug\MainPage.g.cs
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\obj\Debug\SilverlightMarquee.g.resources
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\obj\Debug\SilverlightMarquee.dll
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\obj\Debug\SilverlightMarquee.pdb
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\Bin\Debug\AppManifest.xaml
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\Bin\Debug\SilverlightMarquee.xap
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\Bin\Debug\SilverlightMarqueeTestPage.html
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee\obj\Debug\XapCacheFile.xml

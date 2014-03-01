@@ -1,0 +1,12 @@
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.dll
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.pdb
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\AppManifest.xaml
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xap
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1TestPage.html
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.csprojResolveAssemblyReference.cache
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\App.g.cs
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\MainPage.g.cs
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.g.resources
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.dll
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.pdb
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\XapCacheFile.xml

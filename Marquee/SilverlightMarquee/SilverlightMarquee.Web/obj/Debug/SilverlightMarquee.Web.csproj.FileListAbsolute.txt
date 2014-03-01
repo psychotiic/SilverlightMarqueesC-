@@ -1,0 +1,5 @@
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee.Web\bin\SilverlightMarquee.Web.dll.config
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee.Web\bin\SilverlightMarquee.Web.dll
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee.Web\bin\SilverlightMarquee.Web.pdb
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee.Web\obj\Debug\SilverlightMarquee.Web.dll
+c:\users\psychotiic\documents\visual studio 2013\Projects\SilverlightMarquee\SilverlightMarquee.Web\obj\Debug\SilverlightMarquee.Web.pdb
